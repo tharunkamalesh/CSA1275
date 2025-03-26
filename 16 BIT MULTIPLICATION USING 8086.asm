@@ -1,5 +1,0 @@
-MOV AX,3
-MOV BX,2
-MUL BX
-MOV CX,AX
-HLT  
